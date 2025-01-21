@@ -1,0 +1,6 @@
+﻿ORDER_ID,ETL_OPERATION,ORDER_PRIORITY,DISCOUNT,UNIT_PRICE,SHIPPING_COST,CUSTOMER_ID,CUSTOMER_NAME,SHIP_MODE,CUSTOMER_SEGMENT,PRODUCT_CATEGORY,PRODUCT_SUB_CATEGORY,PRODUCT_CONTAINER,PRODUCT_NAME,STATE_OR_PROVINCE,CITY,POSTAL_CODE,ORDER_DATE,PROFIT,QUANTITY_ORDERED_NEW,SALES,ETL_INSERT_TIMESTAMP
+2,UPDATE,Medium,0.01,3.01,2.56,2867,E Rajesh,Regular Air,Corporate,Office Supplies,"Scissors, Rulers and Trimmers",Small Pack, Office Shears by Acme United Corporation,District of Columbia,Washington,20016,2/20/2013,-2.64,3,8.93,2025-01-21 08:27:46.46
+27,UPDATE,Critical,0.06,13.44,6.27,1821,Rahul,Regular Air,Consumer,Office Supplies,Storage & Organization,Medium Box,Eldon Simplefile,New York,New York City,10177,2/20/2013,-37.04,25,312.3,2025-01-21 08:27:46.46
+816,INSERT,High,0.05,100,29.5,1444,Devika,Regular Air,Corporate,Technology,Computer Peripherals,Small Box, External Faxmodem,Massachusetts,Boston,2113,9/28/2011,23,12,3948,2025-01-21 08:27:46.46
+817,INSERT,Medium,0.06,12.28,6.47,1745,Ramesh,Regular Air,Consumer,Office Supplies,Paper,Small Box,Xerox 1881,India,Bangalore,30305,9/28/2011,322,45,1323,2025-01-21 08:27:46.46
+818,INSERT,High,0,20.99,0.99,949,lathika,Express Air,Consumer,Technology,Telephones and Communication,Wrap Bag,Accessory21,India,Hyderabad,90049,9/28/2011,34354,56,456,2025-01-21 08:27:46.46
